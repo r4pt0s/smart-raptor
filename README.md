@@ -15,7 +15,7 @@ Project was build while learning at
 
 For further information about the API look at [smartRaptorApi](https://github.com/r4pt0s/smartRaptorApi).	
 
-Look at [Working demo](https://smart-raptor.herokuapp.com/).
+Look at [Working demo](https://smart-raptor.herokuapp.com/) deployed at [Heroku](https://www.heroku.com).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
