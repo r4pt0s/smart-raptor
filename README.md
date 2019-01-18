@@ -1,7 +1,5 @@
 # Smart Raptor facerecognition REACT App
 
-Project was build while learning at 
-[Udemy:The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/overview)
 
 ## Used Frameworks & Libaries for Front-End
 * [create-react-app](https://github.com/facebook/create-react-app/blob/master/README.md#getting-started)
